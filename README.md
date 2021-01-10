@@ -1,6 +1,6 @@
 # BinarySearchTree
-This project is about BS tree and obviously, That is clear from my project name you can run and learn how to work with BS tree
+This project is about BS trees and obviously thhat is clear from my project name so you can run it and learn how to work with BS tree.
 
-Check the source file and run it.
+Check the source file and run the project.
 
-Before running projects, Please check solution's properties of linkedlist project and click on current section if it hasn't checked yet and then, you can run and execute projects from where you are.
+Before running project, Please check solution's properties of BST project and click on current section if It hasn't checked yet and then, you can run and execute project from where you are.
